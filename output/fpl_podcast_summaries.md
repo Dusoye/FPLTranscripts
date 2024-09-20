@@ -1,7 +1,5 @@
 # fantasyfootballfixYT
 
-• The algorithm team and the host's team are currently tied 2-2 after 4 gameweeks. The algorithm is predicting 62 points for Gameweek 5.  
-  
 • Key player recommendations:  
   - Brighton goalkeeper Jason Steele (£4.5m) as a potential option  
   - Liverpool fullbacks Trent Alexander-Arnold and Andrew Robertson for their attacking potential  
