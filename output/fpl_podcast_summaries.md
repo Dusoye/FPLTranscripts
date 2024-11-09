@@ -1,180 +1,169 @@
-# fplblackbox
+# fplbanger
 
-Here\'s a summary of the key points from the Fantasy Premier League podcast transcript:  
+"• Erling Haaland continues to blank, but his underlying stats remain strong. The hosts debate whether to keep or sell him, with one arguing to hold due to his high expected goals and potential for regression to the mean.  
   
-• The hosts discussed the recent controversy around content creators potentially having insider information, but dismissed the idea of a secret "cartel" getting team leaks. They emphasized that most moves are just good managers making logical decisions.  
+• Bruno Fernandes is discussed as a potential option with Manchester United's good upcoming fixtures, but there's uncertainty around how the team will perform under a new manager.  
   
-• For GW9, Erling Haaland is the clear captaincy favorite against Southampton. Many are considering using their Triple Captain chip on him this week.  
+• Dominic Solanke of Bournemouth is highlighted as a strong midfield option at a good price point, with favorable upcoming fixtures.  
   
-• Key player recommendations:  
-- Chris Wood (Nottingham Forest) - Good budget forward option with decent fixtures  
-- Morgan Rogers (Aston Villa) - Excellent 5.0m midfielder, very involved in Villa\'s attack  
-- Alejandro Garnacho (Man United) - Potential differential pick at 6.2m with good upcoming fixtures  
+• In attack, Danny Welbeck and Chris Wood are recommended as good forward options based on their consistent performances and fixtures.  
   
-• The hosts suggested moving away from Arsenal defenders like Gabriel due to tough fixtures and recent defensive issues. Liverpool defenders like Trent Alexander-Arnold were also discussed as potential sells.  
-  
-• For Spurs assets, Son Heung-min was recommended as the safest pick, but Brennan Johnson offers good value at a cheaper price.  
-  
-• The hosts advised against taking big hits (-8 or -12) to make multiple transfers, unless using a wildcard. They recommended being patient with underperforming premium assets in most cases.  
-
-"• The Saka situation caused issues for many managers. He was expected to start but didn't play, leading to last-minute transfers and confusion. The podcast host recommends potentially selling Saka due to injury concerns and Arsenal's tough upcoming fixtures.  
-  
-• Son's assist for Tottenham was controversial and later removed by the Premier League. The host agrees with this decision based on previous precedents for similar situations.  
-  
-• Everton assets like Calvert-Lewin and Mykolenko could be worth considering due to improved form and fixtures.  
-  
-• Manchester United attackers (Rashford, Garnacho, Hojlund) are showing signs of improvement and could become FPL options if the trend continues.  
-  
-• Chris Wood of Nottingham Forest was highlighted as an excellent budget forward option, with impressive goal involvement and conversion rates."  
+• For captaincy, Mohamed Salah is seen as the safest option this week against Aston Villa, with Bryan Mbeumo as a potential differential pick."  
 
 ---
 
 # fantasyfootballfixYT
 
-"• The algorithm team predicts 70 points for Gameweek 9, with Edison (Man City) as goalkeeper against Southampton at home, considered one of the best fixtures for a clean sheet.  
+"• Mark discusses his recent struggles in FPL, with many red arrows lately, but notes the rankings are still tight between 500k-1M overall rank. He suggests being more aggressive with transfers to potentially boost rank.  
   
-• Defensive picks include Brentford players (Ajer, Pinnock) and Akanji (Man City), though the host expresses some skepticism about clean sheet potential for Brentford.  
+• There's debate around keeping Man City assets like Haaland and Foden. While City's form is concerning, Haaland is still seen as a good long-term hold. Foden may be worth replacing with Bruno Fernandes due to United's better upcoming fixtures.  
   
-• Midfield selections feature in-form players like Bowen, Palmer, Iwobi, and McNeil. The host sees potential for goals in matches involving these players.  
+• Key transfer targets discussed include Matheus Cunha (Wolves), Bruno Fernandes (Man United), and potentially cheaper forwards like Alexander Isak (Newcastle) to free up funds for Salah.  
   
-• The forward line consists of Watkins, Wood, and Haaland (as captain). These are described as three very in-form strikers.  
+• The podcast emphasizes there are many viable team structures and strategies this season. Managers shouldn't be afraid to make bold moves and differentiate from the template if it fits their strategy.  
   
-• For captaincy, Haaland is strongly recommended despite recent underwhelming performances. Palmer and Son are mentioned as alternative options, but Haaland is still considered the clear choice due to the favorable fixture against Southampton."  
+• For defense, Nottingham Forest assets are highlighted as good budget options due to their strong defensive stats recently."  
 
-"• Craig is considering transferring out Erling Haaland due to Manchester City's recent lack of creativity and poor service to the striker. He plans to potentially sell Haaland after GW9 to free up funds for other premium options like Salah and Son.  
+"• Premium forwards are becoming valuable picks. The podcast discusses Dominic Solanke, Nicholas Jackson, Alexander Isak, and Ollie Watkins as potential options. Nicholas Jackson is recommended as the best long-term pick due to good fixtures and consistent playing time.  
   
-• Cole Palmer (Chelsea) is highlighted as an excellent FPL asset based on recent stats and fixtures. Craig plans to bring him in for the injured Saka.  
+• Budget midfielders Morgan Rogers (Aston Villa) and Antoine Semenyo (Bournemouth) are highlighted as strong options. Semenyo is slightly preferred due to Bournemouth's favorable fixtures and less rotation risk compared to Aston Villa's busy schedule.  
   
-• Arsenal assets may be worth moving away from temporarily due to difficult upcoming fixtures, but Craig plans to bring them back from GW12 onwards.  
+• For budget defenders, Lewis Hall (Newcastle, £4.3m) is recommended as the best long-term option, with good attacking potential and likely consistent playing time.  
   
-• Defensively, Nottingham Forest, Aston Villa, and Fulham are showing promising underlying stats and could offer good budget options.  
-  
-• For transfers ahead of GW9, Craig is leaning towards:  
-  - Gabriel (Arsenal) out  
-  - Saka out for Palmer  
-  - Potentially moving Solanke to free up funds  
-  
-The main strategy advice is to consider moving funds away from Haaland to enable owning multiple premium midfielders with favorable upcoming fixtures."  
-
-"• The top premium midfield options discussed are Phil Foden, Son Heung-min, and Cole Palmer. Foden is considered the best one-week option for GW9, while Palmer offers the best long-term value despite tough upcoming fixtures.  
-  
-• For Spurs midfielders, Brandon Johnson (6.7m) is recommended as the best value option, offering similar goal threat to Son at a much lower price. Kulusevski (6.2m) is also highlighted as a good budget pick.  
-  
-• In defense, Ait-Nouri (4.4m) of Wolves is suggested as an excellent budget option with attacking potential. Pedro Porro and Kyle Walker are discussed as premium defensive options.  
-  
-• Erling Haaland is the standout captaincy pick for GW9 with 10.1 predicted points. The host suggests considering using the triple captain chip on Haaland this week due to the favorable fixture."  
+• For GW11 captaincy, Son Heung-min is considered the best option, followed by Mohamed Salah as a safe pick. Erling Haaland is still a strong choice for those who have kept him."  
 
 ---
 
 # FMLFPL
 
-"• Manchester City's form is concerning, especially for Erling Haaland owners. The hosts debate whether to keep or sell Haaland after the Southampton match in GW9. City's defense is also struggling without Rodri.  
+"• The hosts are struggling with their FPL teams and considering moves to improve their squads. They discuss the merits of premium defenders like Trent Alexander-Arnold vs. cheaper options.  
   
-• Liverpool's defense looks strong again and the hosts recommend tripling up on Liverpool defenders if possible. Trent Alexander-Arnold and Andrew Robertson remain good options despite tough fixtures ahead.  
+• Chris Wood (£6.5m) is highlighted as an excellent budget forward option who keeps scoring, though his upcoming fixtures get tougher. The hosts regret not getting him earlier.  
   
-• Son Heung-min is emerging as a top midfield option with good upcoming fixtures for Spurs. The hosts see him as a priority transfer target over other premium midfielders.  
+• Mohamed Salah and Erling Haaland are still seen as key premium assets to own long-term despite some recent blanks.  
   
-• Budget forward options like Chris Wood, Ollie Watkins, and Dominic Solanke are discussed as good value picks with favorable schedules coming up.  
+• Arsenal's Bukayo Saka is viewed as a strong midfield option once Arsenal's fixtures improve after GW12. Bruno Fernandes is another midfield option discussed.  
   
-• The hosts advise focusing transfers on attack rather than defense, and recommend having 3 reliable starting defenders from top teams rather than rotating cheap options."  
+• The hosts recommend holding Ollie Watkins through some tough upcoming fixtures, as he has good home matches interspersed where he could haul.  
+  
+• Overall, the podcast emphasizes the difficulty in making transfer decisions currently, with many popular assets underperforming expectations recently."  
 
----
-
-# FPLFocal
-
-"• Clean sheets are slightly down compared to last season, suggesting it might be wise to reduce spending on defenders and allocate more funds to midfielders and forwards.  
+"• The hosts are conflicted about Chris Wood as a transfer target. While he's in great form, there are concerns about buying high, chasing yesterday's points, and his difficult upcoming fixtures.  
   
-• Top goalkeeper picks include Ederson (Man City) and Raya (Arsenal), though Arsenal's defense has been less consistent this season. Pickford (Everton) is highlighted as a good budget option.  
+• Wood's current output is likely unsustainable based on his xG overperformance, drawing comparisons to other players who started hot and cooled off (like Luis Diaz).  
   
-• In defense, Manchester City players are highly recommended due to their favorable fixture against Southampton. Dunk (Brighton) and Pinnock (Brentford) are also mentioned as good options.  
+• Alternative striker options in the sub-£8m range are discussed, with Odsonne Edouard and Dominic Solanke highlighted for their favorable upcoming fixtures.  
   
-• For midfielders, Palmer (Chelsea), Foden (Man City), and Saka (Arsenal) are top picks, though Foden comes with rotation risk. Bruno Fernandes (Man United) is also highlighted due to favorable upcoming fixtures.  
+• The hosts emphasize the importance of planning transfers to set up a team that can be left alone for several gameweeks, rather than constantly chasing points week-to-week.  
   
-• In attack, Haaland (Man City) is the standout choice for captaincy, with Watkins (Aston Villa) and Isak (Newcastle) mentioned as other strong forward options."  
-
-"• The podcast host had a disappointing Gameweek 8, scoring only 31 points with many players blanking. This highlights the unpredictable nature of FPL, as low-scoring weeks can be followed by high scores.  
-  
-• There was controversy around Son's assist being initially awarded then removed. The podcast notes that FPL rules have changed this season, allowing points to be finalized on the final day of the gameweek.  
-  
-• Key transfer considerations for Gameweek 9:  
-  - Saka is flagged as doubtful but may be saved for the Liverpool game  
-  - Palmer is highlighted as a potential transfer target, either immediately or in Gameweek 12  
-  - Gabriel to Pinock transfer is considered to free up funds  
-  
-• The host is contemplating using the Triple Captain chip on Haaland for the home game against Southampton, noting Man City's high projected goals but also the absence of key players like De Bruyne and Rodri.  
-  
-• Long-term planning is discussed, with strategies to bring in Saka around Gameweek 12-13 by making multiple transfers over several weeks."  
-
-"• Popular transfers: Many experts are selling Saka and buying Palmer (38%) ahead of favorable fixtures. Son (22%) and Jiménez (18%) are also popular buys, while Haaland remains heavily owned.  
-  
-• Chip usage: This week sees unusual chip activity with 1 wildcard, 1 free hit, and 10 triple captains in play. All triple captains are on Haaland for the Southampton home fixture.  
-  
-• Captaincy: 100% of experts are captaining Haaland despite recent blanks, due to favorable odds and fixture.  
-  
-• Key players to consider: Palmer, Foden, and Doku may benefit from Man City injuries. Ait-Nouri and Pinnock offer good value in defense.  
-  
-• Strategy advice: Plan ahead for premium player rotations, don't be emotional with transfers, and remember there's still a long season ahead."  
+• There's an acknowledgment that FPL seasons are small sample sizes, and sometimes players like Wood can defy expectations and continue their form despite challenging fixtures."  
 
 ---
 
 # alwayscheating
 
-"• The hosts discussed the recent poor performances of Erling Haaland, who has now blanked for 3 straight gameweeks. However, they still view him as the top captaincy option for GW9 against Southampton.  
+Here\'s a summary of the key points from the Fantasy Premier League podcast transcript:  
   
-• Mohamed Salah had a strong performance and the hosts debated whether he could be a viable alternative to Haaland. They suggested having 3 out of 4 premium assets between Salah, Haaland, Saka and Palmer.  
+• The hosts discuss the recent performances of popular cheap midfielders like Morgan Gibbs-White, Antoine Semenyo, and Brennan Johnson, who all delivered returns in Gameweek 10. This is creating a polarized situation where managers are getting points from very cheap (£5-6m) and very expensive (£12m+) players, but struggling with mid-priced options.  
   
-• Cole Palmer was highlighted as a good midfield option, especially for the upcoming Newcastle fixture. However, his fixtures get tougher after that.  
+• There\'s debate about whether to hold onto Erling Haaland given Man City\'s recent struggles. The hosts suggest he may not be thriving in his current role and that Kevin De Bruyne\'s return could be key to unlocking his potential again.  
   
-• For defenders, the hosts recommended looking at cheaper options like Nottingham Forest defenders or Rico Lewis from Man City, rather than investing heavily in premium defenders currently.  
+• Looking ahead to Gameweek 11, the Tottenham vs Ipswich fixture stands out as one to target, with Dominic Solanke mentioned as a potential transfer target after his recent haul.  
   
-• They advised being patient with Arsenal assets like Saka despite some tough upcoming fixtures, as Arsenal's schedule improves significantly after the next few gameweeks."  
+• The hosts advise being cautious with Arsenal assets despite their upcoming fixture swing, noting the team seems to be struggling mentally at the moment. Bukayo Saka is still viewed as a solid option regardless of fixtures.  
+  
+• Strategy advice: To make your team feel more like "your own", try reducing consumption of fantasy content/advice and focus more on your mini-leagues. Use data sources sparingly to inform decisions rather than dictate them.  
 
-"• Captaincy for GW9 looks straightforward with Erling Haaland vs Southampton the top option, despite recent blanks. Ollie Watkins vs Nottingham Forest could be an alternative.  
+"• The hosts discussed the recent performances of popular FPL assets like Phil Foden, Erling Haaland, and Mohamed Salah. They noted Foden and Haaland have been disappointing lately, while Salah continues to deliver.  
   
-• Man City assets are still desirable for the Southampton fixture, but there's uncertainty around Phil Foden's role/form. Rico Lewis and Ruben Dias were mentioned as potential defensive options.  
+• There was debate about whether to stick with Manchester City assets given their poor recent form. The hosts suggested Rodri Guardiola may be the only City player worth owning currently besides Haaland.  
   
-• Arsenal's defense is struggling, so moving out players like Gabriel and William Saliba could free up funds. Their fixtures improve soon though.  
+• Looking ahead to GW11, Tottenham vs Ipswich was highlighted as a key fixture to target, with Son Heung-min and Richarlison mentioned as potential captain options.  
   
-• Cole Palmer continues to impress for Chelsea but has tough upcoming fixtures. He remains a tempting option despite this.  
+• The hosts recommended considering Manchester United assets for their good upcoming fixtures (Leicester, Ipswich, Everton). Bruno Fernandes was suggested as a differential pick.  
   
-• The hosts debated whether to stick with premium assets like Mohamed Salah or spread funds around more. Having 3 out of 4 key premiums (Haaland, Salah, Saka, Palmer) was suggested as a good strategy.  
-  
-• Wildcard in 2 weeks when Arsenal's fixtures improve was recommended as a good time to reset teams and premium structure."  
+• On strategy, they advised reducing consumption of FPL content and focusing more on mini-leagues to make the game more enjoyable and personalized. Using a couple data sources for baseline information was suggested, but not blindly following recommendations."  
 
 ---
 
-# fplbanger
+# FPLFocal
 
-"• The hosts recommend keeping Mohamed Salah despite some tough upcoming fixtures, as he remains the top point scorer and has only blanked twice in 8 games.  
+"• The manager scored 53 points in Gameweek 10, resulting in a small rank increase. Notable performers included Viio, Johnson, Rogers, Wood, and Kane.  
   
-• For budget defenders, they suggest Ryan Ait-Nouri (Wolves), Neco Williams (Nottingham Forest), and potentially Mykolenko (Everton) due to good upcoming fixtures.  
+• For Gameweek 11, the manager is considering starting Fabianski over Raya due to the home fixture. The defense includes Vardal, Gabriel, and Pedro Porro.  
   
-• In midfield, Cole Palmer is highlighted as a strong option due to his attacking threat and set piece duties. Son Heung-min is also mentioned as an interesting differential pick.  
+• In midfield, Seno returns to the lineup, while Palmer (if fit) and Johnson remain. The forward line consists of Wood, Kane, and Haaland.  
   
-• For forwards, the hosts are very high on Raul Jimenez as a budget option, citing his consistent scoring and potential to be on penalties. Chris Wood is also praised for his recent form.  
+• Key transfer plans include potentially selling Johnson in Gameweek 12 for either Salah or Saka. The manager is also considering moving funds around to accommodate premium options in the coming weeks.  
   
-• The hosts debate whether to shift to a formation with 3 forwards given the number of good budget forward options available currently.  
+• Haaland's form is a concern, but the manager plans to hold for now and reassess captaincy options. Rolling the transfer this week to have flexibility during the upcoming international break is the current strategy."  
+
+"• Recommendation to sell Dominic Calvert-Lewin (DCL) due to poor performance. Suggested replacements include Matheus Cunha, Alexander Isak, or Ollie Watkins.  
   
-• For captaincy in GW9, Erling Haaland remains the top choice for most, but differential options like Cole Palmer are discussed for those without Haaland."  
+• Top budget defender picks (around £4.5m) for the long term include Ezri Konsa, Tino Livramento, and Lewis Dunk, with specific gameweek recommendations provided.  
+  
+• Discussion on whether to keep or sell Erling Haaland. Advice is to hold for one more week unless selling allows for a significant upgrade elsewhere in the team.  
+  
+• Tottenham assets (particularly Son and Kulusevski) highlighted as strong captaincy options for Gameweek 11 due to favorable fixture and high projected goals.  
+  
+• Consideration of a -4 point hit to transfer Haaland and Rodri out for Isak and Salah, potentially allowing for a future upgrade to Saka in Gameweek 12."  
+
+"• Top managers are divided on Erling Haaland, with some selling him while others are holding. Mohamed Salah is gaining popularity, with 50% of experts captaining him this week.  
+  
+• Callum Wilson (Newcastle) and Dominic Solanke (Bournemouth) are popular forward options due to good form and fixtures. Wilson is the most transferred-in player among experts.  
+  
+• Manchester City assets like Rico Lewis are being sold due to rotation concerns. Liverpool's Andy Robertson is also losing favor after recent benchings.  
+  
+• The experts' team for Gameweek 11 features a shift away from Haaland to Salah, reflecting changing sentiments about premium options.  
+  
+• Many managers are considering using their Wildcard chip in Gameweek 12, after the upcoming international break, to restructure their teams."  
 
 ---
 
 # AboveAverageFPL
 
-"• Manchester City have the best fixture this week, with an expected goals of 3.35 and 50% clean sheet probability. Erling Haaland is the standout captain and triple captain option.  
+"• The hosts discussed captaincy options for the upcoming gameweek, with Son, Salah, and Salánke (Solanke) being the main contenders. They were split on who to captain.  
   
-• Key player recommendations:  
-- Erling Haaland (Man City) - Top captain pick  
-- Bryan Mbeumo (Brentford) - Good alternative captain option  
-- Phil Foden (Man City) - Likely to play centrally with injuries to other attackers  
-- Ollie Watkins (Aston Villa) - Still a great option despite other tempting transfers  
+• There was debate about whether to bring in Manchester United assets like Bruno Fernandes ahead of their good upcoming fixtures. However, there's uncertainty about how the new manager will set up the team.  
   
-• Strategy advice:  
-- Triple captaining Haaland this week could be a good option, with an expected 13+ point haul  
-- Free hit could be viable for those without Haaland to avoid falling too far behind  
-- Brighton assets may be worth avoiding due to upcoming difficult fixtures  
-- Chris Wood (Nottingham Forest) emerging as an interesting budget forward option  
+• Wolves attackers Cunha and Hwang were discussed as potential budget options, but there are concerns about Wolves' overall attacking output.  
   
-• The hosts debated various transfer and team selection dilemmas, emphasizing the importance of planning ahead for future gameweeks while also capitalizing on this week's prime fixtures."  
+• Chris Wood was mentioned as a potential budget striker option due to good upcoming fixtures.  
+  
+• The hosts debated whether to keep or sell premium defenders like Trent Alexander-Arnold, with some feeling he may not be worth his high price currently.  
+  
+• There was discussion about navigating upcoming fixture swings and planning transfers for the next few gameweeks, particularly around GW12.  
+  
+The main strategic advice seemed to be carefully planning transfers over the next few gameweeks to navigate fixture swings, while being cautious about jumping on new options like Man United players until we see how they set up under the new manager."  
+
+---
+
+# fplblackbox
+
+"• The hosts discussed Dominic Solanke's recent 16-point haul and how he's now a strong captaincy option for the upcoming gameweek against Ipswich. They predict Spurs to win 4-0.  
+  
+• There was debate about whether to keep Erling Haaland or switch to Mohamed Salah. The hosts seem inclined to hold Haaland for now despite his poor recent form.  
+  
+• Cole Palmer is expected to play against Arsenal despite injury concerns. He's seen as a key transfer target for GW12 onwards due to Chelsea's good fixtures.  
+  
+• The hosts highlighted Alexander Isak as a potential differential forward option from GW12 due to Newcastle's favorable upcoming matches.  
+  
+• There was discussion about Manchester United assets under new manager Amad Diallo, with Bruno Fernandes highlighted as the main option to consider if investing in United.  
+  
+Key advice:  
+• Consider Solanke as a captaincy option this week  
+• Hold Haaland for now but be ready to switch to Salah soon  
+• Target Cole Palmer for GW12 onwards  
+• Keep an eye on Alexander Isak as a differential forward pick"  
+
+"• Erling Haaland continues to struggle, with just one return in five gameweeks. Many managers are considering selling him for Gameweek 12 to bring in Arsenal assets and Cole Palmer.  
+  
+• Mohamed Salah remains a crucial asset, scoring the winner for Liverpool and delivering consistent returns. He's becoming an essential player as managers move away from Haaland.  
+  
+• Nottingham Forest's Chris Wood (8 goals this season) and Chelsea's Cole Palmer are highlighted as good value options, with Forest showing improved form and Chelsea having favorable upcoming fixtures.  
+  
+• Dominic Solanke had a standout performance with a 16-point haul, suggesting he may be worth holding onto for upcoming fixtures.  
+  
+• Injuries to watch: Ibrahima Konate appears to be fit, while there are concerns about Cole Palmer (knee) and potentially Erling Haaland (training injury)."  
 
 ---
